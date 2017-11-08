@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 jupi ja je
 
 branch1?
 
 halo?
-=======
-jupi ja je
->>>>>>> c3c8151... Napis testowy
